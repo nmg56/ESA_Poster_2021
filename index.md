@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/nmg56/ESA_Poster_2021/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Carpenter, J. M. (2001). Checklist of species of the subfamily Masarinae (Hymenoptera: Vespidae). American Museum Novitates, 2001(3325), 1–40.
 
-### Jekyll Themes
+Gess, S. K. (1996). The Pollen Wasps: Ecology and Natural History of the Masarinae. Harvard University Press.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nmg56/ESA_Poster_2021/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Richards, O. W. (1963). The species of Pseudomasaris Ashmead (Hymenoptera, Masaridae). University of California Publications in Entomology, 27, 283–310.
 
-### Support or Contact
+Richards, O. (1966). New records of Pseudomasaris Ashmead (Hymenoptera: Vespoidea, Masaridae), with notes on P. phaceliae Rohwer and P. cazieri RM Bohart. Proceedings of the Royal Entomological Society of London. Series B, Taxonomy., 35, 47–55.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+
