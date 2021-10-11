@@ -11,5 +11,4 @@ Richards, O. W. (1963). The species of Pseudomasaris Ashmead (Hymenoptera, Masar
 Richards, O. (1966). New records of Pseudomasaris Ashmead (Hymenoptera: Vespoidea, Masaridae), with notes on P. phaceliae Rohwer and P. cazieri RM Bohart. Proceedings of the Royal Entomological Society of London. Series B, Taxonomy., 35, 47–55.
 
 
-
-
+Bradley, J. C. (1922). The Taxonomy of the Masarid Wasps, Including a Monograph on the North American Species. University of California Press, 1(9), 369–464. https://digitalcommons.usu.edu/bee_lab_bo/110/
